@@ -1,6 +1,6 @@
 ## Let the Gainz Begin!
 ### App Description
-// TODO: Add App Description
+Let the Gainz Begin! is a fitness app to assist people in all levels of their fitness career. It allows individuals figure out a workout style specifically tailored to their personal body goal. It also a forum to allow individuals to post their progrss and those more advanced to help beginners.
 ### App Idea Evaluation
 // TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 - Mobile:
@@ -38,9 +38,9 @@
      * User can set account type (Private or Public)
      * User can set body goal
      * User can set workout experience (Beginner, Medium, Expert)
-         * Beginners given workouts and told what they target
-         * Medium are recommended workouts but are allowed to choose their own excercises
-         * Experts are allowed to choose their workout plan and are recommened particular exercises to best suit them 
+         * Beginners are given workouts and told what they target
+         * Medium are recommended workouts but are allowed to choose their own excercises based on what they wish to target
+         * Experts are allowed to choose their workout plan and are recommended particular exercises to best suit them 
  * Stream
      * Daily workouts
      * User can scroll through list of different exercises to try.
@@ -75,6 +75,7 @@
  * Creation
      * Stream
      * Profile
+---
 ### Wireframes
 // TODO: Add Wireframe Images
 ---
